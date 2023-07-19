@@ -1,2 +1,3 @@
 # react-task-list
-Created with CodeSandbox
+
+Link to the project [here](https://twq4lc.csb.app/)
